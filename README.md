@@ -7,4 +7,5 @@ If you are inspired by this cosmic syntax, modest dimensional support is availab
 
 ---
 
-# zpe-design
+# ∞8 zpe-design
+#### This repository is a conceptual framework and partial prototype for a layered memory management system, inspired by fictional multidimensional architectures.　
